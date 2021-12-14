@@ -3,7 +3,7 @@ Mapping Earthquake Data using geomapping.
 
 # Basic Project Plan
 ## Purpose
-The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. We also included an overlay to show the location of all tectonic plates and an overlay to show major earthquakes over 4.0 on the Ritcher Scale. 
+The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. We also included an overlay to show the location of all tectonic plates and an overlay to show major earthquakes over 4.0 on the Richter Scale. 
 
 ## Tasks
 To complete this project, we used a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Then we added the data to a map.
