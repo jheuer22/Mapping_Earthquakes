@@ -221,7 +221,7 @@ let tectonicData = "https://raw.githubusercontent.com/fraxen/tectonicplates/mast
   // the map. We pass the magnitude of the earthquake into two separate functions
   // to calculate the color and radius.
  let styleInfo2 = {
-      color: "black",
+      color: "#29E719",
       weight: 2
     }
   
