@@ -13,7 +13,7 @@ We used JavaScript and the D3.js library to retrieve the coordinates and magnitu
 
 ### Deliverable 1: Add Tectonic Plate Data
 
-![tectonicPlates.png](tectonicPlates.png)
+![tectonicPlates.png](Resources/tectonicPlates.png)
 
 ### Deliverable 2: Add Major Earthquake Data
 
